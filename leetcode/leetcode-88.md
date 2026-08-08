@@ -24,6 +24,7 @@ at the beginning i was thinking this was a two pointers problem, but it wasn't
 
 <details>
     <summary align="left">Solution</summary>
+
 ```python
 class Solution:
     def merge(self, nums1: List[int], m: int, nums2: List[int], n: int) -> None:
