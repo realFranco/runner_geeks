@@ -12,6 +12,12 @@ There was 7 challenges, every filename will be the initial letter for the challe
  - [F] Evaluate my Polynomial;
  - [G] Thus Spake the Master Programmer.
 
+## LeetCode challenges
+
+Set of challenges I solve from time to time.
+
+See: [Leetcode README](./leetcode/README.md).
+
 ## Todo:
 
 - [ ] Create more test cases in order to check correct behavior;
