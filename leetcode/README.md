@@ -16,3 +16,4 @@ time tracking is enable, depending on the way o tackle the problem the solution 
 hours or days as I said earlier.
 
 - [88. Merge Sorted Array](leetcode-88.md)
+- [14. Longest Common Prefix](leetcode-14.md)
