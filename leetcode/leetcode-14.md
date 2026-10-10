@@ -1,4 +1,4 @@
-## 14. Longest Common Preffix
+## 14. Longest Common Prefix
 
 [leetcode link](https://leetcode.com/problems/longest-common-prefix/description/?envType=study-plan-v2&envId=top-interview-150).
 
