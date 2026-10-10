@@ -15,5 +15,10 @@ Below is a list of the challenges I took in my hands. Maybe I spend several days
 time tracking is enable, depending on the way o tackle the problem the solution can be done in
 hours or days as I said earlier.
 
+If I took more time that the need it I just read the solution and understand it.
+
+The next list is sorted by try and not by alphabetical order. That means the last one in the list is the most recent challenge I took.
+
 - [88. Merge Sorted Array](leetcode-88.md)
 - [14. Longest Common Prefix](leetcode-14.md)
+- [135. Longest Common Prefix](leetcode-135.md)
